@@ -1,11 +1,10 @@
 <template>
     <div class="about">
-     Это About >>>>>>>>>>
+     <h1>Это About >>>>>>>>>></h1>
     </div>
 </template>
 
 <style lang="scss">
-    /*@import "../scss/lib/global-flex.scss";*/
     .about {
 
     }
